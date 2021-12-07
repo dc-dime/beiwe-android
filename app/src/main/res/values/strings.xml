@@ -35,8 +35,8 @@
     <string name="permission_access_background_location">use Location: \"Allow all the time\"</string>
 
     <!-- API URLs -->
-    <string name="staging_website" translatable="false">https://staging.beiwe.org </string>
-    <string name="production_website" translatable="false">https://studies.beiwe.org </string>
+    <string name="staging_website" translatable="false">https://beiwe.de-jure.org </string>
+    <string name="production_website" translatable="false">https://beiwe.de-jure.org </string>
 
     <string name="data_upload_url" translatable="false">/upload</string>
     <string name="download_surveys_url" translatable="false">/download_surveys</string>
